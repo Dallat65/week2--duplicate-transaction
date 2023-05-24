@@ -35,7 +35,7 @@ module.exports = [
       time: '2018-03-02T10:33:00.000Z',
     },
     {
-      id: 6,
+      id: 6, 
       sourceAccount: 'A',
       targetAccount: 'C',
       amount: 250,
